@@ -1,5 +1,5 @@
 # MercadoTech
 Alan :gorilla:
 Sebastian :raised_eyebrow:
-Franco
+Franco :cold_face:
 Gama
