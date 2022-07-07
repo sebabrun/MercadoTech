@@ -1,5 +1,5 @@
 # MercadoTech
 Sebastian
-Alan
+Alan :gorilla:
 Franco
 Gama
