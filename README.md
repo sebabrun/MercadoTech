@@ -1,5 +1,5 @@
 # MercadoTech
+Alan :gorilla:
 Sebastian :raised_eyebrow:
-Alan
 Franco
 Gama :dizzy_face:
